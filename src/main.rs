@@ -1,10 +1,5 @@
 use std::io::stdin;
 
-struct Guest {
-    name: String,
-    greeting: String,
-}
-
 fn what_is_your_name() -> String {
     let mut name = String::new();
 

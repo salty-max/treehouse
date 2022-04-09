@@ -2,7 +2,7 @@
 
 Will the bouncer allow you in?
 
-## Quick setuo
+## Quick setup
 
 ```console
 $ cargo run
